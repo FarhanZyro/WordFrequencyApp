@@ -28,7 +28,7 @@ namespace WordFrequencyApp
 
                
                 }
-            words.Add(word);
+            
 
             words.Add(processedWord);
             }
